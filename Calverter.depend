@@ -1,0 +1,746 @@
+# depslib dependency file v1.0
+1473597650 source:c:\users\ab\desktop\c++ programs\calculator\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+
+1474116610 source:c:\users\ab\onedrive\calculator\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+
+1475562256 source:c:\users\ab\desktop\calculator\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	"Temperature.h"
+	"arithmetic.h"
+	"weight.h"
+	"charge.h"
+	"length.h"
+	"voltage.h"
+	"frequency.h"
+	"power.h"
+
+1475559124 c:\users\ab\desktop\calculator\temperature.h
+
+1475559124 source:c:\users\ab\desktop\calculator\arithmetic.cpp
+	"arithmetic.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559124 c:\users\ab\desktop\calculator\arithmetic.h
+
+1475482460 source:c:\users\ab\desktop\calculator\temperature.cpp
+	"Temperature.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559499 source:c:\users\ab\desktop\calculator\weight.cpp
+	"weight.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559498 c:\users\ab\desktop\calculator\weight.h
+
+1475559919 source:c:\users\ab\desktop\calculator\charge.cpp
+	"charge.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559868 c:\users\ab\desktop\calculator\charge.h
+
+1475560381 c:\users\ab\desktop\calculator\length.h
+
+1475560425 source:c:\users\ab\desktop\calculator\length.cpp
+	"length.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475562027 source:c:\users\ab\desktop\calculator\frequency.cpp
+	"frequency.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475561876 c:\users\ab\desktop\calculator\frequency.h
+
+1475561795 source:c:\users\ab\desktop\calculator\power.cpp
+	"power.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+
+1475561911 c:\users\ab\desktop\calculator\power.h
+
+1475560879 source:c:\users\ab\desktop\calculator\voltage.cpp
+	"voltage.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475560879 c:\users\ab\desktop\calculator\voltage.h
+
+1475562823 source:c:\users\ab\desktop\calverter\arithmetic.cpp
+	"arithmetic.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559124 c:\users\ab\desktop\calverter\arithmetic.h
+
+1475562823 source:c:\users\ab\desktop\calverter\charge.cpp
+	"charge.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559868 c:\users\ab\desktop\calverter\charge.h
+
+1475562823 source:c:\users\ab\desktop\calverter\frequency.cpp
+	"frequency.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475561876 c:\users\ab\desktop\calverter\frequency.h
+
+1475562823 source:c:\users\ab\desktop\calverter\length.cpp
+	"length.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475560381 c:\users\ab\desktop\calverter\length.h
+
+1475564064 source:c:\users\ab\desktop\calverter\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	"Temperature.h"
+	"arithmetic.h"
+	"weight.h"
+	"charge.h"
+	"length.h"
+	"voltage.h"
+	"frequency.h"
+	"power.h"
+	"credit.h"
+	"square.h"
+
+1475559124 c:\users\ab\desktop\calverter\temperature.h
+
+1475559498 c:\users\ab\desktop\calverter\weight.h
+
+1475560879 c:\users\ab\desktop\calverter\voltage.h
+
+1475561911 c:\users\ab\desktop\calverter\power.h
+
+1475562823 source:c:\users\ab\desktop\calverter\power.cpp
+	"power.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+
+1475562823 source:c:\users\ab\desktop\calverter\temperature.cpp
+	"Temperature.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475562823 source:c:\users\ab\desktop\calverter\voltage.cpp
+	"voltage.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475562822 source:c:\users\ab\desktop\calverter\weight.cpp
+	"weight.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475563607 source:c:\users\ab\desktop\calverter\credit.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1475563599 source:c:\users\ab\desktop\calverter\square.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+
+1475563712 c:\users\ab\desktop\calverter\credit.h
+
+1475563712 c:\users\ab\desktop\calverter\square.h
+
+1475819382 source:c:\users\ab\onedrive\calverter\arithmetic.cpp
+	"arithmetic.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559124 c:\users\ab\onedrive\calverter\arithmetic.h
+
+1475819416 source:c:\users\ab\onedrive\calverter\charge.cpp
+	"charge.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559868 c:\users\ab\onedrive\calverter\charge.h
+
+1475563607 source:c:\users\ab\onedrive\calverter\credit.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1475819679 source:c:\users\ab\onedrive\calverter\frequency.cpp
+	"frequency.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475561876 c:\users\ab\onedrive\calverter\frequency.h
+
+1475829394 source:c:\users\ab\onedrive\calverter\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	"converter.h"
+
+1475559124 c:\users\ab\onedrive\calverter\temperature.h
+
+1475559498 c:\users\ab\onedrive\calverter\weight.h
+
+1475560381 c:\users\ab\onedrive\calverter\length.h
+
+1475560879 c:\users\ab\onedrive\calverter\voltage.h
+
+1475561911 c:\users\ab\onedrive\calverter\power.h
+
+1475563712 c:\users\ab\onedrive\calverter\credit.h
+
+1475563712 c:\users\ab\onedrive\calverter\square.h
+
+1475820133 source:c:\users\ab\onedrive\calverter\power.cpp
+	"power.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+
+1475820133 source:c:\users\ab\onedrive\calverter\square.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+
+1475820133 source:c:\users\ab\onedrive\calverter\temperature.cpp
+	"Temperature.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475820196 source:c:\users\ab\onedrive\calverter\voltage.cpp
+	"voltage.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475820343 source:c:\users\ab\onedrive\calverter\weight.cpp
+	"weight.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475819640 source:c:\users\ab\onedrive\calverter\energy.cpp
+	"energy.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475759193 c:\users\ab\onedrive\calverter\energy.h
+
+1475819720 source:c:\users\ab\onedrive\calverter\length.cpp
+	"length.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475822039 c:\users\ab\onedrive\calverter\result.h
+
+1475830425 c:\users\ab\onedrive\calverter\converter.h
+
+1475819382 source:c:\users\ab\desktop\calverter working copy\arithmetic.cpp
+	"arithmetic.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559124 c:\users\ab\desktop\calverter working copy\arithmetic.h
+
+1475819416 source:c:\users\ab\desktop\calverter working copy\charge.cpp
+	"charge.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559868 c:\users\ab\desktop\calverter working copy\charge.h
+
+1475563607 source:c:\users\ab\desktop\calverter working copy\credit.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1475819640 source:c:\users\ab\desktop\calverter working copy\energy.cpp
+	"energy.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475759193 c:\users\ab\desktop\calverter working copy\energy.h
+
+1475819679 source:c:\users\ab\desktop\calverter working copy\frequency.cpp
+	"frequency.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475561876 c:\users\ab\desktop\calverter working copy\frequency.h
+
+1475819720 source:c:\users\ab\desktop\calverter working copy\length.cpp
+	"length.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475560381 c:\users\ab\desktop\calverter working copy\length.h
+
+1475820133 source:c:\users\ab\desktop\calverter working copy\power.cpp
+	"power.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+
+1475561911 c:\users\ab\desktop\calverter working copy\power.h
+
+1475820133 source:c:\users\ab\desktop\calverter working copy\square.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+
+1475820133 source:c:\users\ab\desktop\calverter working copy\temperature.cpp
+	"Temperature.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559124 c:\users\ab\desktop\calverter working copy\temperature.h
+
+1475820196 source:c:\users\ab\desktop\calverter working copy\voltage.cpp
+	"voltage.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475560879 c:\users\ab\desktop\calverter working copy\voltage.h
+
+1475820343 source:c:\users\ab\desktop\calverter working copy\weight.cpp
+	"weight.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559498 c:\users\ab\desktop\calverter working copy\weight.h
+
+1475832606 source:c:\users\ab\desktop\calverter working copy\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	"Temperature.h"
+	"arithmetic.h"
+	"weight.h"
+	"charge.h"
+	"length.h"
+	"voltage.h"
+	"frequency.h"
+	"power.h"
+	"credit.h"
+	"square.h"
+	"energy.h"
+	"check.h"
+
+1475563712 c:\users\ab\desktop\calverter working copy\credit.h
+
+1475563712 c:\users\ab\desktop\calverter working copy\square.h
+
+1475832362 c:\users\ab\desktop\calverter working copy\cnvt.h
+	"arithmetic.h"
+	"charge.h"
+
+1475832391 source:c:\users\ab\desktop\calverter working copy\cnvt.cpp
+	"cnvt.h"
+	<iostream>
+	<conio.h>
+	"arithmetic.h"
+	"charge.h"
+
+1475833274 source:c:\users\ab\desktop\calverter working copy\check.cpp
+	"check.h"
+	<iostream>
+	<conio.h>
+	"arithmetic.h"
+
+1475833290 c:\users\ab\desktop\calverter working copy\check.h
+	"arithmetic.h"
+
+1475833596 source:c:\users\ab\desktop\calverter working copy\converter.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	"Temperature.h"
+	"arithmetic.h"
+	"weight.h"
+	"charge.h"
+	"length.h"
+	"voltage.h"
+	"frequency.h"
+	"power.h"
+	"credit.h"
+	"square.h"
+	"energy.h"
+	"converter.h"
+
+1475833596 c:\users\ab\desktop\calverter working copy\converter.h
+	"Temperature.h"
+	"arithmetic.h"
+	"weight.h"
+	"charge.h"
+	"length.h"
+	"voltage.h"
+	"frequency.h"
+	"power.h"
+	"credit.h"
+	"square.h"
+	"energy.h"
+
+1475819382 source:c:\users\ab\onedrive\calverter working copy\arithmetic.cpp
+	"arithmetic.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559124 c:\users\ab\onedrive\calverter working copy\arithmetic.h
+
+1475819416 source:c:\users\ab\onedrive\calverter working copy\charge.cpp
+	"charge.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475559868 c:\users\ab\onedrive\calverter working copy\charge.h
+
+1475563607 source:c:\users\ab\onedrive\calverter working copy\credit.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1475819679 source:c:\users\ab\onedrive\calverter working copy\frequency.cpp
+	"frequency.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475561876 c:\users\ab\onedrive\calverter working copy\frequency.h
+
+1475819720 source:c:\users\ab\onedrive\calverter working copy\length.cpp
+	"length.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475560381 c:\users\ab\onedrive\calverter working copy\length.h
+
+1475833627 source:c:\users\ab\onedrive\calverter working copy\main.cpp
+	"converter.h"
+
+1475833596 c:\users\ab\onedrive\calverter working copy\converter.h
+	"Temperature.h"
+	"arithmetic.h"
+	"weight.h"
+	"charge.h"
+	"length.h"
+	"voltage.h"
+	"frequency.h"
+	"power.h"
+	"credit.h"
+	"square.h"
+	"energy.h"
+
+1475559124 c:\users\ab\onedrive\calverter working copy\temperature.h
+
+1475559498 c:\users\ab\onedrive\calverter working copy\weight.h
+
+1475560879 c:\users\ab\onedrive\calverter working copy\voltage.h
+
+1475561911 c:\users\ab\onedrive\calverter working copy\power.h
+
+1475563712 c:\users\ab\onedrive\calverter working copy\credit.h
+
+1475563712 c:\users\ab\onedrive\calverter working copy\square.h
+
+1475759193 c:\users\ab\onedrive\calverter working copy\energy.h
+
+1475820133 source:c:\users\ab\onedrive\calverter working copy\power.cpp
+	"power.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+
+1475820133 source:c:\users\ab\onedrive\calverter working copy\square.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+
+1475820133 source:c:\users\ab\onedrive\calverter working copy\temperature.cpp
+	"Temperature.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475820196 source:c:\users\ab\onedrive\calverter working copy\voltage.cpp
+	"voltage.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475820343 source:c:\users\ab\onedrive\calverter working copy\weight.cpp
+	"weight.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475833822 source:c:\users\ab\onedrive\calverter working copy\converter.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	"Temperature.h"
+	"arithmetic.h"
+	"weight.h"
+	"charge.h"
+	"length.h"
+	"voltage.h"
+	"frequency.h"
+	"power.h"
+	"credit.h"
+	"square.h"
+	"energy.h"
+	"converter.h"
+
+1475833822 source:c:\users\ab\onedrive\calverter working copy\energy.cpp
+	"energy.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475847224 source:c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\arithmetic.cpp
+	"arithmetic.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475847224 c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\arithmetic.h
+
+1475847226 source:c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\charge.cpp
+	"charge.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475847226 c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\charge.h
+
+1475847226 source:c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\converter.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	"Temperature.h"
+	"arithmetic.h"
+	"weight.h"
+	"charge.h"
+	"length.h"
+	"voltage.h"
+	"frequency.h"
+	"power.h"
+	"credit.h"
+	"square.h"
+	"energy.h"
+	"converter.h"
+
+1475847230 c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\temperature.h
+
+1475847232 c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\weight.h
+
+1475847228 c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\length.h
+
+1475847232 c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\voltage.h
+
+1475847228 c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\frequency.h
+
+1475847230 c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\power.h
+
+1475847226 c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\credit.h
+
+1475847230 c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\square.h
+
+1475847228 c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\energy.h
+
+1475847226 c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\converter.h
+	"Temperature.h"
+	"arithmetic.h"
+	"weight.h"
+	"charge.h"
+	"length.h"
+	"voltage.h"
+	"frequency.h"
+	"power.h"
+	"credit.h"
+	"square.h"
+	"energy.h"
+
+1475847226 source:c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\credit.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1475847228 source:c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\energy.cpp
+	"energy.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1547660100 source:c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\frequency.cpp
+	"frequency.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475847228 source:c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\length.cpp
+	"length.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475847228 source:c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\main.cpp
+	"converter.h"
+
+1475847230 source:c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\power.cpp
+	"power.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+
+1475847230 source:c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\square.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+
+1475847230 source:c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\temperature.cpp
+	"Temperature.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475847232 source:c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\voltage.cpp
+	"voltage.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
+1475847232 source:c:\users\sanskar\documents\codeblocks_workspace\calverter_0.9\weight.cpp
+	"weight.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+
